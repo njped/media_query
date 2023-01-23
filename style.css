@@ -1,0 +1,16 @@
+/* Media Query on media.html */
+@media screen and (max-width: 700px){
+    .openBtn {
+        visibility: visible;
+    }
+
+    #sideNav {
+        left: -250px;
+    }
+
+    main {
+        left: 0px;
+        max-width: calc();
+    }
+
+}
